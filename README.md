@@ -136,7 +136,7 @@ Desenvolvedor Full Stack com foco em Python e interesse em soluções baseadas e
     src="https://github-readme-stats.vercel.app/api?username=botelllhx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
