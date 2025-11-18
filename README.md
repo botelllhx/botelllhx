@@ -4,23 +4,6 @@
 
 Desenvolvedor Full Stack com foco em Python e interesse em soluções baseadas em AWS. Experiência comprovada em frontend (HTML, CSS, JavaScript) e frameworks modernos como Angular e React, além de expertise em backend com Node.js e C#. Atuante no desenvolvimento de aplicações serverless utilizando AWS Lambda, com forte habilidade em integrações complexas e automação de processos. Especializado em criar sistemas escaláveis, eficientes e otimizados para integração entre plataformas.
 
-<p align="left">
-    <a href="https://github.com/botelllhx?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/botelllhx?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/botelllhx?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/botelllhx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
