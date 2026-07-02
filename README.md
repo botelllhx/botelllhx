@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Desenvolvedor Full Stack com foco em Python e interesse em soluções baseadas em AWS. Experiência comprovada em frontend (HTML, CSS, JavaScript) e frameworks modernos como Angular e React, além de expertise em backend com Node.js e C#. Atuante no desenvolvimento de aplicações serverless utilizando AWS Lambda, com forte habilidade em integrações complexas e automação de processos. Especializado em criar sistemas escaláveis, eficientes e otimizados para integração entre plataformas.
+Profissional de Tecnologia da Informação com sólida atuação em desenvolvimento full stack, arquitetura de software e construção de SaaS, utilizando React, Next.js, TypeScript, Node.js, e PostgreSQL. Experiência em integrações via APIs REST, Docker, CI/CD e infraestrutura em AWS. Atuação estratégica em SEO, performance digital e marketing orientado a dados, aliando visão analítica e criatividade em branding e UI/UX para desenvolver produtos digitais escaláveis, funcionais e orientados a crescimento. Perfil com visão sistêmica, foco em inovação e capacidade de conectar tecnologia, produto e estratégia para geração de valor e eficiência operacional.
 
 ---
 
