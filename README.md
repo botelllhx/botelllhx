@@ -221,24 +221,24 @@ Sistema full stack de agendamentos, do modelo de dados à interface de reserva.
 <!-- STATS:START -->
 
 ```console
-C:\BOTELLHX> stats --all-time
+C:\BOTELLLHX> stats --all-time
 
-  COMMITS ..................   692   PULL REQUESTS ............    11
+  COMMITS ..................   693   PULL REQUESTS ............    11
   ESTRELAS RECEBIDAS .......     3   ISSUES ...................     9
-  REPOSITORIOS PUBLICOS ....    17   CONTRIBUIU EM ............    12
+  REPOSITORIOS PUBLICOS ....    17   CONTRIBUIU EM ............    11
   SEGUIDORES ...............    16   NO GITHUB DESDE .......... out/2022
 
-C:\BOTELLHX> stats --languages --by repo
+C:\BOTELLLHX> stats --languages --by repo
 
-  JavaScript  ██████████████████████████  4 repos
-  TypeScript  ████████████████████░░░░░░  3 repos
-  HTML        ████████████████████░░░░░░  3 repos
-  C#          █████████████░░░░░░░░░░░░░  2 repos
-  CSS         █████████████░░░░░░░░░░░░░  2 repos
-  PHP         ██████░░░░░░░░░░░░░░░░░░░░  1 repo
-  Python      ██████░░░░░░░░░░░░░░░░░░░░  1 repo
+  JavaScript  ██████████████████████████  5 repos
+  HTML        ████████████████░░░░░░░░░░  3 repos
+  TypeScript  ████████████████░░░░░░░░░░  3 repos
+  C#          ██████████░░░░░░░░░░░░░░░░  2 repos
+  CSS         ██████████░░░░░░░░░░░░░░░░  2 repos
+  PHP         █████░░░░░░░░░░░░░░░░░░░░░  1 repo
+  Python      █████░░░░░░░░░░░░░░░░░░░░░  1 repo
 
-C:\BOTELLHX> _
+C:\BOTELLLHX> _
 ```
 
 <!-- STATS:END -->
