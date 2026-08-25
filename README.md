@@ -25,7 +25,7 @@
 <a href="https://github.com/botelllhx?tab=followers"><img src="https://img.shields.io/github/followers/botelllhx?style=flat-square&logo=github&logoColor=FFFFFF&label=SEGUIDORES&labelColor=061A60&color=0B2CA3" alt="Seguidores" /></a>
 <img src="https://komarev.com/ghpvc/?username=botelllhx&style=flat-square&color=0B2CA3&label=VISITAS" alt="Visitas no perfil" />
 <img src="https://img.shields.io/badge/MODO-CRIATIVO-0B2CA3?style=flat-square&labelColor=061A60&logo=statuspage&logoColor=FFFFFF" alt="Modo criativo" />
-<a href="https://www.pucminas.br/"><img src="https://img.shields.io/badge/PUC%20MINAS-0B2CA3?style=flat-square&labelColor=061A60&logo=bookstack&logoColor=FFFFFF" alt="PUC Minas" /></a>
+<a href="https://www.pucminas.br/"><img src="https://img.shields.io/badge/PUC%20MINAS-Sistemas%20de%20Informa%C3%A7%C3%A3o-0B2CA3?style=flat-square&labelColor=061A60&logo=bookstack&logoColor=FFFFFF" alt="PUC Minas, Sistemas de Informacao" /></a>
 
 </div>
 
@@ -40,6 +40,7 @@ C:\BOTELLLHX> type perfil.txt
   FUNCAO ............ Desenvolvedor Full Stack
   ESPECIALIDADE ..... Desenvolvimento criativo (creative dev)
   BASE .............. Belo Horizonte / MG, Brasil
+  FORMACAO .......... Sistemas de Informacao, PUC Minas
   CRIA .............. Interfaces, motion, produtos SaaS, identidade digital
   STACK PRINCIPAL ... TypeScript, React, Next.js, Node.js, PostgreSQL
   TAMBEM ESCREVE .... C# / .NET, Python / Django, PHP / WordPress
