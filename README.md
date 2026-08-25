@@ -25,6 +25,7 @@
 <a href="https://github.com/botelllhx?tab=followers"><img src="https://img.shields.io/github/followers/botelllhx?style=flat-square&logo=github&logoColor=FFFFFF&label=SEGUIDORES&labelColor=061A60&color=0B2CA3" alt="Seguidores" /></a>
 <img src="https://komarev.com/ghpvc/?username=botelllhx&style=flat-square&color=0B2CA3&label=VISITAS" alt="Visitas no perfil" />
 <img src="https://img.shields.io/badge/MODO-CRIATIVO-0B2CA3?style=flat-square&labelColor=061A60&logo=statuspage&logoColor=FFFFFF" alt="Modo criativo" />
+<a href="https://www.pucminas.br/"><img src="https://img.shields.io/badge/PUC%20MINAS-0B2CA3?style=flat-square&labelColor=061A60&logo=bookstack&logoColor=FFFFFF" alt="PUC Minas" /></a>
 
 </div>
 
@@ -85,7 +86,7 @@ animação à tarde. Marca, interface e código tratados como uma coisa só, por
 ## <samp>► STACK</samp>
 
 <details open>
-<summary><samp><b>[+] FRONT-END</b></samp></summary>
+<summary><samp><b>[-] FRONT-END</b></samp></summary>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,tailwind,html,css,vite&theme=dark" alt="Front-end" />
@@ -95,8 +96,8 @@ animação à tarde. Marca, interface e código tratados como uma coisa só, por
 
 </details>
 
-<details>
-<summary><samp><b>[+] BACK-END</b></samp></summary>
+<details open>
+<summary><samp><b>[-] BACK-END</b></samp></summary>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,python,django,php,graphql&theme=dark" alt="Back-end" />
@@ -106,8 +107,8 @@ animação à tarde. Marca, interface e código tratados como uma coisa só, por
 
 </details>
 
-<details>
-<summary><samp><b>[+] DADOS</b></samp></summary>
+<details open>
+<summary><samp><b>[-] DADOS</b></samp></summary>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgres,prisma,mysql,mongodb,redis&theme=dark" alt="Dados" />
@@ -117,8 +118,8 @@ animação à tarde. Marca, interface e código tratados como uma coisa só, por
 
 </details>
 
-<details>
-<summary><samp><b>[+] INFRA E DEVOPS</b></samp></summary>
+<details open>
+<summary><samp><b>[-] INFRA E DEVOPS</b></samp></summary>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,linux,nginx,git&theme=dark" alt="Infra e DevOps" />
@@ -128,8 +129,8 @@ animação à tarde. Marca, interface e código tratados como uma coisa só, por
 
 </details>
 
-<details>
-<summary><samp><b>[+] CRIAÇÃO E PRODUTO</b></samp></summary>
+<details open>
+<summary><samp><b>[-] CRIAÇÃO E PRODUTO</b></samp></summary>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,wordpress,notion&theme=dark" alt="Criacao e produto" />
@@ -244,12 +245,6 @@ C:\BOTELLLHX> _
 <!-- STATS:END -->
 
 <sub>Bloco acima gerado direto da API do GitHub por [`scripts/gh-stats.mjs`](scripts/gh-stats.mjs), atualizado todo dia às 06:00 UTC, sem depender de serviço de terceiros.</sub>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=botelllhx&locale=pt_BR&background=0D1117&border=0B2CA3&stroke=0B2CA3&ring=6685F5&fire=6685F5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6685F5&sideLabels=C9D1D9&dates=8B949E" alt="Sequencia de contribuicoes" width="70%" />
-
-</div>
 
 ---
 
