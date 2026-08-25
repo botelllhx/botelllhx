@@ -33,7 +33,7 @@
 ## <samp>► SOBRE MIM</samp>
 
 ```console
-C:\BOTELLHX> type perfil.txt
+C:\BOTELLLHX> type perfil.txt
 
   NOME .............. Mateus Botelho
   FUNCAO ............ Desenvolvedor Full Stack
