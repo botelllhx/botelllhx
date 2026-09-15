@@ -225,16 +225,16 @@ Sistema full stack de agendamentos, do modelo de dados à interface de reserva.
 ```console
 C:\BOTELLLHX> stats --all-time
 
-  COMMITS ..................   696   PULL REQUESTS ............    11
+  COMMITS ..................   703   PULL REQUESTS ............    11
   ESTRELAS RECEBIDAS .......     3   ISSUES ...................     9
-  REPOSITORIOS PUBLICOS ....    17   CONTRIBUIU EM ............    11
+  REPOSITORIOS PUBLICOS ....    18   CONTRIBUIU EM ............    12
   SEGUIDORES ...............    16   NO GITHUB DESDE .......... out/2022
 
 C:\BOTELLLHX> stats --languages --by repo
 
   JavaScript  ██████████████████████████  5 repos
+  TypeScript  █████████████████████░░░░░  4 repos
   HTML        ████████████████░░░░░░░░░░  3 repos
-  TypeScript  ████████████████░░░░░░░░░░  3 repos
   C#          ██████████░░░░░░░░░░░░░░░░  2 repos
   CSS         ██████████░░░░░░░░░░░░░░░░  2 repos
   PHP         █████░░░░░░░░░░░░░░░░░░░░░  1 repo
